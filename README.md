@@ -9,3 +9,6 @@ Here we are going to separate the research into several steps:
 3. try to do Backtesting.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+First, when selecting the data, we chose several  characteristics of stock we saw via eyes: from the report from Everbright securities
+Thinking about using the Fourier transform method to separate different parts of the stock function can also be used as characteristics.
+Also, we try to use the theory from Joseph E.Granville, which consist of  
